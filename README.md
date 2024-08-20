@@ -5,7 +5,7 @@
 ## About Me
 
 - 🚀 Physics graduate with a passion for Aerospace, Technology, and Education.
-- 🏫 Currently learning programming at 42 Porto (https://www.42porto.com).
+- 🏫 Currently learning how to code at 42 Porto (https://www.42porto.com).
 - 👷‍♂️ Founder of a youth association participating in EuRoC, to launch a model rocket up to 3000m.
 - 💼 Looking for opportunities to collaborate on innovative projects and startups.
 
