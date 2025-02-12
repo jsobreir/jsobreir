@@ -25,7 +25,7 @@
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/joao-barbot)
-- [Email](joao.barbot@outlook.com)
+- [Email](joaoobarbot@gmail.com)
 
 ## GitHub Stats
 
