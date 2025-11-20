@@ -4,7 +4,7 @@
 ## About Me
 
 - 🚀 Physics graduate with a passion for Aerospace, Technology, and Education.
-- 💼 Intern student at Software Engineering in automotive and mobility ecosystems (SEA:ME).
+- 💼 Intern student at Software Engineering in Automotive and Mobility Ecosystems (SEA:ME).
 - 🏫 Currently doing the Advanced Curriculum at 42 Porto with focus on Python and AI (https://www.42porto.com).
 - 👷‍♂️ Founder of a youth association participating in EuRoC, to launch a model rocket up to 3000m.
 
