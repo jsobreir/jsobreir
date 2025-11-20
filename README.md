@@ -4,13 +4,13 @@
 ## About Me
 
 - 🚀 Physics graduate with a passion for Aerospace, Technology, and Education.
-- 🏫 Currently learning how to code at 42 Porto (https://www.42porto.com).
+- 💼 Intern student at Software Engineering in automotive and mobility ecosystems (SEA:ME).
+- 🏫 Currently doing the Advanced Curriculum at 42 Porto with focus on Python and AI (https://www.42porto.com).
 - 👷‍♂️ Founder of a youth association participating in EuRoC, to launch a model rocket up to 3000m.
-- 💼 Looking for opportunities to collaborate on innovative projects and startups.
 
 ## Skills
 
-- **Programming Languages:** Python, C
+- **Programming Languages:** Python, C, C++, Typescript, CSS, HTML
 - **Frameworks & Tools:** Git, Shell
 - **Other:** Physics, Rocketry, Project Management, Leadership
 
